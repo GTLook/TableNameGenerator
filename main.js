@@ -17,7 +17,12 @@ var tableNames = [
   "Tableham Lincoln",
   "Desker's Laboratory",
   "Counter Terrorism",
-  "Couldn't Chairless"
+  "Couldn't Chairless",
+  "Beef",
+  "Meatloaf",
+  "Snackwave",
+  "Tilde",
+  "Octothorpe"
 ];
 
 
