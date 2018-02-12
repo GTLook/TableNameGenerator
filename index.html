@@ -47,6 +47,7 @@
         color: white;
         background-color: rgba(255, 255, 255, 0.1);
         user-select: none;
+        display: block;
       }
       .button:hover{
         background-color: rgba(255, 255, 255, 0.15);
@@ -56,9 +57,8 @@
   </head>
   <body>
     <script src = 'main.js'></script>
-    <div id = "button" class = "button">
-    <!-- <div class = "button" id = "button">Table!</div> -->
-    <input type="button" onclick="generate()" value="Name my Table">
-    </div>
+    <!-- <div id = "button" > -->
+    <input type="button" class = "button" onclick="generate()" value="Name my Table">
+
     </body>
 </html>
