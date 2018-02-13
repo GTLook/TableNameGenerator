@@ -22,7 +22,11 @@ var tableNames = [
   "Meatloaf",
   "Snackwave",
   "Tilde",
-  "Octothorpe"
+  "Octothorpe",
+  "Albatross",
+  "Seagull",
+  "Truthy",
+  "Falsey"
 ];
 
 
